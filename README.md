@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a Ph.D student at University of Science and Technologh Beijing (USTB).
 - 🔭 I’m currently a Visiting Reserach Scholar at the School of Computer Science, University of Sydney (USYD).
-- 🔭 I’m currently working on working on Computer Vision, Human Pose and Shape Estimation, Video Super-Resolution, NeRF.
+- 🔭 I’m currently working on Computer Vision, Human Pose and Shape Estimation, Video Super-Resolution, NeRF.
 
 ![Zhongwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuzhongwei-USTB&count_private=true&show_icons=true&theme=radical)
 
