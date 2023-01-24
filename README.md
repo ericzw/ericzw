@@ -4,9 +4,11 @@
 - 🔭 I’m currently a Visiting Reserach Scholar at the School of Computer Science, University of Sydney (USYD).
 - 🔭 I’m currently working on Computer Vision, Human Pose and Shape Estimation, Video Super-Resolution, NeRF.
 
-![Zhongwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuzhongwei-USTB&count_private=true&show_icons=true&theme=radical)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+![Zhongwei's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qiuzhongwei-USTB&count_private=true&show_icons=true&theme=radical)
+
+<!-- ![Zhongwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuzhongwei-USTB&count_private=true&show_icons=true&theme=radical) -->
+
 
 
 
