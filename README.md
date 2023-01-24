@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![Zhongwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuzhongwei-USTB)](https://github.com/qiuzhongwei-USTB/github-readme-stats)
+[![Zhongwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuzhongwei-USTB)](https://github.com/qiuzhongwei-USTB/github-readme-stats&count_private=true)
+
+- 🔭 I’m currently a Ph.D student at University of Science and Technologh Beijing.
+- 🔭 I’m currently a Visiting Reserach Scholar at the School of Computer Science, University of Sydney.
+- 🔭 I’m currently working on working on Computer Vision, Human Pose and Shape Estimation, Video Super-Resolution, NeRF.
 
 
 <!--
