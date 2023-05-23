@@ -3,7 +3,7 @@
 - 🔭 I’m currently a Ph.D student at University of Science and Technologh Beijing (USTB).
 - 🔭 I’m currently a Visiting Reserach Scholar at the School of Computer Science, University of Sydney (USYD).
 - 🔭 I’m currently working on Human-Centric Visual Perception and Generation(2D/3D Human Pose and Shape Estimation), Video Super-Resolution, NeRF.
-- 🔭 I‘m looking for a position in computer vision and multimodal-related research, base on Beijing, Shanghai, Shenzhen. I will be grateful if anyone could recommend a job. Email:18813059739@163.com
+- 🔭 **I‘m looking for a position in computer vision and multimodal-related research, base on Beijing, Shanghai, Shenzhen. I will be grateful if anyone could recommend a job. Email:18813059739@163.com**
 
 
 <!-- ![Zhongwei's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qiuzhongwei-USTB&count_private=true&show_icons=true&theme=radical) -->
